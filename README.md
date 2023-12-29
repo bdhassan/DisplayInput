@@ -2,6 +2,8 @@
 
 Takes the user input and prints out:
 
+-Negative 1
+
 -Original Character 
 
 -Character as Uppercase 
